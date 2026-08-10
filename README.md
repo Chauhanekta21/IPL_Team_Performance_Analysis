@@ -1,4 +1,4 @@
-# IPL_Team_Performance_Analysis
+# IPL Team Performance Analysis
 
 ---
 
