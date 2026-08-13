@@ -1,5 +1,10 @@
 ## 📊 IPL Team Performance Analysis
 
+![Thumbnail](Images/ipl_thumbnail.png)
+![Thumbnail](Images/ipl_thumbnail1.png)
+
+--- 
+
 ## 🔹 Project Overview
 
 This project is an interactive **Microsoft Excel dashboard** built using IPL 2025 match and player performance data.
