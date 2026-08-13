@@ -1,6 +1,8 @@
 ## 📊 IPL Team Performance Analysis
 
+![Thumbnail](Images/ipl_thumbnail6.png)
 ![Thumbnail](Images/ipl_thumbnail5.png)
+
 
 --- 
 
