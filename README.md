@@ -31,7 +31,8 @@ The dashboard aims to answer questions such as:
 ## 🔹 Tools & Technologies
 
 * Microsoft Excel
-* Power Query
+* Power Query Editor
+* Power Pivot
 * Excel Data Model
 * Pivot Tables
 * Pivot Charts
@@ -58,9 +59,7 @@ The project uses structured IPL 2025 data divided into **dimension and fact tabl
 
 ### Dataset Link
 
-[IPL 2025 Team Performance Dataset](#)
-
-> The dataset link will be updated with the project repository/data location once the GitHub repository is finalized.
+[IPL 2025 Team Performance Dataset](https://github.com/Chauhanekta21/IPL_Team_Performance_Analysis/blob/main/Dataset/ipl_raw_data.xlsx)
 
 ---
 
