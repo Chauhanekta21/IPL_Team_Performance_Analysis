@@ -2,7 +2,6 @@
 
 
 ![Thumbnail](Images/ipl_thumbnail11.png)
-![Thumbnail](Images/ipl_thumbnail16.png)
 
 
 --- 
