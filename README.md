@@ -1,4 +1,4 @@
-## 📊 IPL Team Performance Analysis
+# 📊 IPL Team Performance Analysis
 
 
 ![Thumbnail](Images/ipl_thumbnail.png)
