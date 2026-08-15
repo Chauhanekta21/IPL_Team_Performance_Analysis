@@ -1,5 +1,6 @@
 # 📊 IPL Team Performance Analysis
 
+> **Project Status: In Progress**
 
 ![Thumbnail](Images/ipl_thumbnail.png)
 
