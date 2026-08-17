@@ -11,25 +11,24 @@
 
 This project is an interactive **Microsoft Excel dashboard** built using IPL 2025 match and player performance data.
 
-The dashboard analyzes **team performance, match results, batting, bowling, player contributions, and venue performance** during the 2025 IPL season.
+The dashboard analyzes team performance, match results, batting, bowling, player contributions, and venue performance during the 2025 IPL season. It also includes a separate section for detailed player performance analysis to understand individual contributions to overall team performance.
 
 ---
 
 ## 🔹 Business Objectives
 
-The main objective of this project is to understand **how IPL teams performed and what factors contributed to their results**.
+The main objective of this project is to analyze **IPL team performance and identify factors associated with wins and losses**.
 
 The dashboard aims to answer questions such as:
 
-* Which teams performed the best during IPL 2025?
-* Which teams were the most consistent in winning matches?
+* How did teams perform during IPL 2025?
+* Which teams had the strongest overall performance?
 * How did teams perform in terms of runs and wickets?
-* Which players made the biggest contributions to their teams?
-* Which teams had stronger batting or bowling performances?
+* Which teams had stronger batting or bowling performance?
 * Does winning the toss appear to influence match results?
-* Which venues produced the most wins or highest-scoring matches?
+* How did teams perform across different venues and opponents?
+* Which players contributed most to their team's performance?
 * Which players had the strongest batting and bowling performances?
-* Which teams performed better against specific opponents?
 
 *These objectives can be expanded or refined as the analysis progresses.*
 
@@ -64,34 +63,32 @@ The project uses structured IPL 2025 data divided into **dimension and fact tabl
 * `fact_match` — Contains match-level information such as date, teams, toss winner, match winner, scores, wickets, and overs.
 * `fact_player` — Contains player-level performance such as runs, balls faced, fours, sixes, strike rate, overs bowled, runs conceded, wickets, and economy.
 
-### Dataset Link
-
-[IPL 2025 Team Performance Dataset](https://github.com/Chauhanekta21/IPL_Team_Performance_Analysis/blob/main/Dataset/ipl_raw_data.xlsx)
+### Dataset Link: [ipl-2025-team-performance-dataset](https://github.com/Chauhanekta21/IPL_Team_Performance_Analysis/blob/main/Dataset/ipl_raw_data.xlsx)
 
 ---
 
 ## 🔹 Analytics Workflow
 
-```text
-Raw Dataset
-    ↓
-Data Import
-    ↓
-Data Cleaning
-    ↓
-Data Transformation
-    ↓
-Data Load
-    ↓
-Data Modeling
-    ↓
-Calculated Columns & Metrics
-    ↓
-Pivot Tables
-    ↓
-Charts & Visualizations
-    ↓
-Slicers / Filters
-    ↓
-Interactive Excel Dashboard
-```
+**Raw Dataset**
+↓
+**Data Import**
+↓
+**Data Cleaning**
+↓
+**Data Transformation**
+↓
+**Data Load**
+↓
+**Data Modeling**
+↓
+**Calculated Columns & Metrics**
+↓
+**Pivot Tables**
+↓
+**Charts & Visualizations**
+↓
+**Slicers / Filters**
+↓
+**Interactive Team Performance Dashboard**
+↓
+**Detailed Player-Level Drill-Down Report**
