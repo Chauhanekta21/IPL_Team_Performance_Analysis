@@ -52,7 +52,7 @@ The dashboard aims to answer questions such as:
 
 The project uses structured IPL 2025 data divided into **dimension and fact tables**.
 
-### 🟦 Dimension Tables
+### Dimension Tables
 
 * `dim_team` — Contains team information such as team name, captain, coach, home ground, city, and owner.
 * `dim_player` — Contains player information such as role, nationality, batting style, and bowling style.
