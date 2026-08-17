@@ -100,7 +100,8 @@ Player-Level Drill-Down Report
 - Imported raw IPL 2025 CSV files into **Excel Power Query Editor**.
 - Loaded 5 tables: `dim_team`, `dim_player`, `dim_venue`, `fact_match`, and `fact_player`.
 
-![Power Query Data Import Preview](Images/import_data.png)
+
+![Power Query Data Import Preview](Images/data_import1.png)
 
 ---
 
