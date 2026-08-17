@@ -101,6 +101,10 @@ Player-Level Drill-Down Report
 - Loaded 5 tables: `dim_team`, `dim_player`, `dim_venue`, `fact_match`, and `fact_player`.
 
 ![Power Query Data Import Preview](Images/import_data.png)
+![Power Query Data Import Preview](Images/import_data1.png)
+![Power Query Data Import Preview](Images/import_data2.png)
+![Power Query Data Import Preview](Images/import_data3.png)
+
 
 ---
 
