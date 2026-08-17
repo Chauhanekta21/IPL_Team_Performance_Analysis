@@ -69,26 +69,22 @@ The project uses structured IPL 2025 data divided into **dimension and fact tabl
 
 ## 🔹 Analytics Workflow
 
-**Raw Dataset**
-↓
-**Data Import**
-↓
-**Data Cleaning**
-↓
-**Data Transformation**
-↓
-**Data Load**
-↓
-**Data Modeling**
-↓
-**Calculated Columns & Metrics**
-↓
-**Pivot Tables**
-↓
-**Charts & Visualizations**
-↓
-**Slicers / Filters**
-↓
-**Interactive Team Performance Dashboard**
-↓
-**Detailed Player-Level Drill-Down Report**
+Raw Data
+    ↓
+Data Import
+    ↓
+Data Cleaning
+    ↓
+Data Transformation
+    ↓
+Data Modeling
+    ↓
+Calculated Columns & Metrics
+    ↓
+Pivot Tables
+    ↓
+Charts & Visuals
+    ↓
+Interactive Dashboard
+    ↓
+Player-Level Drill-Down Report
