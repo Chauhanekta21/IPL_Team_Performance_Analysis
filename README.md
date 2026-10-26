@@ -3,7 +3,6 @@
 > **Project Status: In Progress**
 
 
-![Thumbnail](Images/ipl_thumbnail.png)
 
 --- 
 
